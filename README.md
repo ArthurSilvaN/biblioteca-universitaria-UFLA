@@ -1,11 +1,6 @@
-"# Biblioteca Universiária UFLA" 
+# Biblioteca Universiária UFLA 
 
 Esse projeto é um sistema de gerenciamento de uma biblioteca, desenvolvido em C++. Ele permite que usuários façam empréstimos de livros, devolvam livros, vejam os livros emprestados e sejam excluídos do sistema.
-
-## Alunos
-* Arthur Nunes
-* Caio Bastos
-* Pedro Rabelo
 
 ## Funcionalidades
 * Adicionar novos usuários
@@ -17,7 +12,7 @@ Esse projeto é um sistema de gerenciamento de uma biblioteca, desenvolvido em C
 * Buscar usuários pelo nome ou pelo número de matrícula
 * Salvar e carregar usuários a partir de um arquivo binário
 
-**Estruturas
+## Estruturas
 
 O projeto utiliza as seguintes estruturas:
 
@@ -28,3 +23,7 @@ O projeto utiliza as seguintes estruturas:
 ## UFLA 2022
 - Introdução a algoritimos
 - Sistemas de Informações
+### Alunos
+* Arthur Nunes
+* Caio Bastos
+* Pedro Rabelo
